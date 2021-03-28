@@ -23,4 +23,4 @@ python main.py
 
 [en]: https://github.com/MakDon/genshin-with-midi-input/blob/main/README.md
 [cn]: https://github.com/MakDon/genshin-with-midi-input/blob/main/README-cn.md
-[orogin]: https://github.com/Misaka17032/genshin-lyre-auto-play
+[origin]: https://github.com/Misaka17032/genshin-lyre-auto-play
