@@ -1,7 +1,7 @@
 # genshin-with-midi-input
 
 用你的 midi 键盘来玩原神的风物之诗琴     
-English [here][README.md]
+English [here][en]
 
 ## quick start
 
@@ -15,3 +15,12 @@ pip install pywin32 pygame
 ```
 python main.py
 ```
+
+## 鸣谢
+
+灵感来源于[Misaka17032 的 genshin-lyre-auto-play][origin]    
+其中的 `press`, `unpress`, `pop_window` 等函数也是从他那里薅的。
+
+[en]: https://github.com/MakDon/genshin-with-midi-input/blob/main/README.md
+[cn]: https://github.com/MakDon/genshin-with-midi-input/blob/main/README-cn.md
+[orogin]: https://github.com/Misaka17032/genshin-lyre-auto-play
