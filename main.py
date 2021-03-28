@@ -18,7 +18,6 @@ mapping = {'48': 'z', '50': 'x', '52': 'c', '53': 'v', '55': 'b', '57': 'n', '59
 def press(note):  # 48 83
     if note in mapping.keys():
         win32api.keybd_event(letter[mapping[note]], 0, win32con.KEYEVENTF_EXTENDEDKEY, 0)
-    # print("Press: ", letter[mapping[note]])
     return
 
 
@@ -49,7 +48,6 @@ if __name__ == "__main__":
     while True:
         if input.poll():
             input_key = input.read(1)[0]
-            print(input_key[0])
             if input_key[0][0] == action_press:
                 press(str(input_key[0][1]))
             elif input_key[0][0] == action_unpress:
