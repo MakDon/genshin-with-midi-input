@@ -1,7 +1,8 @@
 # genshin-with-midi-input
 
-use your midi keyboard to play with genshin windsong lyre！
-简体中文戳[这里][]
+use your midi keyboard to play with genshin windsong lyre！    
+简体中文戳[这里][README-cn.md]    
+
 ## quick start
 
 - install dependencies
