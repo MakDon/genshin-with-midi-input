@@ -1,6 +1,7 @@
 # genshin-with-midi-input
 
 用你的 midi 键盘来玩原神的风物之诗琴     
+[演示视频](https://b23.tv/jkdK4d)
 English [here][en]
 
 ## quick start
