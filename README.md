@@ -1,6 +1,7 @@
 # genshin-with-midi-input
 
-use your midi keyboard to play with genshin windsong lyre！    
+use your midi keyboard to play genshin windsong lyre！    
+[Demo video](https://b23.tv/jkdK4d)     
 简体中文戳[这里][cn]    
 
 ## quick start
@@ -19,7 +20,7 @@ python main.py
 ## Thanks
 
 inspired by [Misaka17032/genshin-lyre-auto-play][origin]     
-And functions like `press`, `unpress`, `pop_window` is copied and paste from his/her origin job.
+And functions like `press`, `unpress`, `pop_window` is borrowed from his/her original job.
 
 [en]: https://github.com/MakDon/genshin-with-midi-input/blob/main/README.md    
 [cn]: https://github.com/MakDon/genshin-with-midi-input/blob/main/README-cn.md    
